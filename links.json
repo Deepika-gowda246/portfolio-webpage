@@ -1,0 +1,27 @@
+{
+  "name": "Deepika IM",
+  "handle": "@Deepika-Gowda246",
+  "avatar": "avatar.png",
+  "links": [
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/deepika-im?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+      "icon": "linkedin"
+    },
+    {
+      "label": "Power BI Portfolio",
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiYmM2MTQ4MWMtNmE4NS00MzY2LWJhMTItMGRiMWI0MTY0NTg2IiwidCI6IjA3MTM0N2FjLTExODgtNDk3MS05YzIwLTYxMDJkMWQwODUwMCJ9",
+      "icon": "powerbi"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/Deepika-Gowda246",
+      "icon": "github"
+    },
+    {
+      "label": "Email",
+      "url": "mailto:deepikaim59@gmail.com",
+      "icon": "mail"
+    }
+  ]
+}
