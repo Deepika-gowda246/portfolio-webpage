@@ -98,7 +98,7 @@ The project uses inline SVG icons. To add new icons:
 
 Supported icon types:
 - `linkedin` - LinkedIn profile
-- `powerbi` - Power BI dashboards
+- `powerbi` - Hacker Rank 
 - `github` - GitHub profile
 - `mail` / `email` - Email contact
 

@@ -10,9 +10,9 @@ let profileData = {
             "icon": "linkedin"
         },
         {
-            "label": "Power BI Portfolio",
-            "url": "https://app.powerbi.com/groups/me/list",
-            "icon": "powerbi"
+            "label": "Hacker Rank",
+            "url": "https://www.hackerrank.com/profile/deepikaim246",
+            "icon": "Hacker Rank"
         },
         {
             "label": "GitHub",
