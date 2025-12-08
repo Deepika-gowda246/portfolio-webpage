@@ -1,7 +1,6 @@
 // App State with default links
 let profileData = {
     name: "Deepika IM",
-    handle: "@Deepika-Gowda246",
     avatar: "avatar.png",
     links: [
         {

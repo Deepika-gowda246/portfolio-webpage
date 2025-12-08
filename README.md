@@ -30,7 +30,6 @@ Edit `links.json` with your actual information:
 ```json
 {
   "name": "Your Name",
-  "handle": "@yourhandle",
   "avatar": "https://your-avatar-url.com/image.jpg",
   "links": [
     {
