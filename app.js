@@ -93,7 +93,6 @@ function renderProfile() {
 
     // Update profile info
     elements.profileName.textContent = profileData.name || 'Your Name';
-    elements.profileHandle.textContent = profileData.handle || '@yourhandle';
 
     // Render links
     renderLinks();
